@@ -1,0 +1,95 @@
+https://www.instructables.com/id/DIY-Life-Size-Phone-Controlled-BB8-Droid/
+https://www.instructables.com/id/DIY-Bluetooth-Phone-Controlled-BB-8-Droid-With-Ard/
+
+MALZEMELER;
+- Arduino Uno
+
+- Pololu Dual VNH5019 Motor Kalkanı
+
+- 2x Pololu (19: 1) 37D Metal Şanzıman
+
+- HC05 Bluetooth Modülü
+
+- 4 Hücreli Lityum Pil Paketi (2x)
+
+- Anahtar, DC Jack, Teller, Lehim
+
+BB8'in Gövdesi:
+
+- Şişme Plaj Topu (Çap: 50cm)
+
+- Eski Gazete
+
+- Düz Kanvas Bez
+
+- 2 Şişe PVA Tutkal (Elmer's Tutkal olarak da bilinir)
+
+- 1 Şişe Woodglue
+
+- Beyaz, Gri ve Turuncu (Mandalina) Sprey Boya
+
+- Roll-on Deodorantlar
+
+BB8'in Başkanı:
+
+- Strafor Top (Çap: 300mm / 12 inç)
+
+- Noel Topu (BB8'in Gözünün Boyutu)
+
+- WiFi Anteni (Yalnızca Prop)
+
+- Elbise Askısı
+
+- Roll-on Deodorantlar
+
+- Beyaz, Gri ve Turuncu (Mandalina) Sprey Boya
+
+
+
+ÇEŞİTLİ:
+
+- Superglue
+
+- Neodimyum Mıknatıslar
+
+BAŞKA BİR SİTEDE;
+
+
+havya
+tutkal tabancası
+tel sıyırıcı / kesici
+Arduino IDE ve Adafruit Motor Shield Kütüphanesi ile PC
+Parçalar:
+Elektronik:
+
+Arduino Uno
+HC-06 Seri Bluetooth Modülü
+Motor Kalkanı
+18650 Lityum İyon Pil (Çevrimiçi satın alırsanız, sahte Ultrafire pillere dikkat edin, eski bir dizüstü bilgisayardan madeni kurtardım)
+Vitesli DC Motorlar (3 Adet)
+Servo Motor
+Mavi LED
+Atlama Telleri
+5.5mm Güç Jakı
+Mekanizma:
+
+Bazı Lego Parçaları
+Bir Hamster Topu
+Plastik Küre (kafa için)
+Vidalar ve Fermuarlar
+Plastik veya Pleksi Cam levhalar
+Mıknatıslar
+Görünüm ve Boya:
+
+Beyaz Boya Spreyi
+Siyah boya
+Mavi ve Turuncu Boya
+Ping-Pong Topu (göz için)
+Siyah İşaretleyici
+Yazılım:
+
+Ardiono IDE
+Adafruit Motor Shield Kütüphanesi
+BT RC Araba Android Uygulaması
+
+
